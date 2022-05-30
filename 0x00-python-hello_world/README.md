@@ -1,0 +1,1 @@
+python is the higeher programing language in programing and it is interpeted language 
