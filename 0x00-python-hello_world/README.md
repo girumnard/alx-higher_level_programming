@@ -1,1 +1,1 @@
-python is the higeher programing language in programing and it is interpeted language 
+python is higher level languge for all
